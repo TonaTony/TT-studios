@@ -42,7 +42,6 @@ nav ul li {
 }
 
 nav ul li a {
-    text-decoration: none;
     color: #ffffff;
     font-size: 20px;
 }
@@ -163,7 +162,6 @@ button {
 
 
 .navbar2 nav ul li a {
-    text-decoration: none;
     color: #000000;
     font-size: 20px;
 }
